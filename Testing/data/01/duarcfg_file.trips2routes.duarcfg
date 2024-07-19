@@ -1,0 +1,9 @@
+<configuration>
+   
+   <input>
+        <net-file value="Tainan.net.xml"/>
+        <route-files value="od_file.odtrips.xml"/>
+		<additional-files value="vtype.xml"/>
+    </input>
+	
+</configuration>	

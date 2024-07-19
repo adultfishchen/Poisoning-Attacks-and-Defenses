@@ -1,0 +1,15 @@
+<configuration>
+
+    <input>
+        <taz-files value="taz_file.taz.xml"/>
+        <od-matrix-files value="OD_file.od"/>
+    </input>
+	<output>
+        <output-file value="od_file.odtrips.xml"/>
+    </output>
+	<processing>
+	    <timeline value="0:0.25,1800:0.25,3600:0.25,5400:0.25,7200:0.0"/>
+		<vtype value="0"/>
+	</processing>
+
+</configuration>
